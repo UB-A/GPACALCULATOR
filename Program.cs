@@ -10,7 +10,7 @@ namespace GpaCalculator
            int creditUnite = 0;
            int totalCreditUnit = 0;
 
-           char grade = '\0';
+           char grade = 'A';
            int total = 0;
 
            int counter = 0;
@@ -63,3 +63,4 @@ namespace GpaCalculator
     }
 }
             
+
