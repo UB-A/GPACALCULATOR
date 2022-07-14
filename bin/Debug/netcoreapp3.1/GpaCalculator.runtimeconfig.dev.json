@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SoundKitchen Studio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SoundKitchen Studio\\.nuget\\packages"
+    ]
+  }
+}
